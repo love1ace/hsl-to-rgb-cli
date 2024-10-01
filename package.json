@@ -1,0 +1,38 @@
+{
+  "name": "hsl2r",
+  "version": "1.0.0",
+  "description": "hsl to rgb in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/hsl2r.git"
+  },
+  "keywords": [
+    "hsl",
+    "rgb",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/hsl2r/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/hs2rc#readme",
+  "bin": {
+    "hsl2r": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
