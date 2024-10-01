@@ -1,17 +1,17 @@
-# hsl2r
+# hsl-to-rgb-cli
 
-**hsl2r** is a CLI tool that converts hsl to rgb.
+**hsl-to-rgb-cli** is a CLI tool that converts hsl to rgb.
 
-![npm](https://img.shields.io/npm/v/hsl2r)
-![license](https://img.shields.io/npm/l/hsl2r)
+![npm](https://img.shields.io/npm/v/hsl-to-rgb-cli)
+![license](https://img.shields.io/npm/l/hsl-to-rgb-cli)
 
 ## Quick Start
 
-Get **hsl2r** up and running quickly!
+Get **hsl-to-rgb-cli** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx hsl2r 14 100 60
+    npx hsl-to-rgb-cli 14 100 60
     ```
 2. **Done!**
 
@@ -27,7 +27,7 @@ This will convert the HSL values `(14°, 100%, 60%)` to its RGB equivalent, and 
 
 ## Contributing
 
-We welcome contributions to **hs2rc**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **hsl-to-rgb-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 
